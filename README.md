@@ -13,6 +13,11 @@
 
 ## 🚀 Getting Started
 
-### 🏗 Build the Image
+### 🏗 Build the Image or Just use the one i build
 ```sh
 docker build -t lightweight-curl-jq-bash .
+
+or
+
+docker pull keymoad/lightweight-curl-jq-bash
+
